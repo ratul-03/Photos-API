@@ -14,7 +14,7 @@ This is a simple web application that fetches a list of images from the [Picsum 
 
 ## Demo
 
-Check out a live demo of the project [here](https://your-demo-link.com).
+Check out a live demo of the project [here](http://127.0.0.1:5500/index.html).
 
 ## Features
 
