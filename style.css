@@ -1,0 +1,39 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Playwrite GB S", cursive;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-container-item {
+    width: 96%;
+    padding: 20px;
+    border-radius: 10px;
+    background: #ddd;
+    box-shadow: 0 0 10px #ddd;
+    margin: 10px auto 0px;
+}
+
+.image-container-item img {
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 96%;
+}
+
+.image-container-item p {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
